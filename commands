@@ -105,6 +105,9 @@ docker rmi [IMAGE]
 
 More Docker Commands - Cheet Sheet
 
+From sudheerj's docker-cheat-sheet repo on github.
+
+
 Registries and Repositories
 Registry:
 Docker Registry is a service that stores your docker images. It could be hosted by a third party, as public or private registry. Some of the examples are,
